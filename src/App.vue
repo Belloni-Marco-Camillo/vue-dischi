@@ -3,8 +3,6 @@
 
     <SiteHeader></SiteHeader>
     <SiteMain></SiteMain>
-    
-    <h1>oroa</h1>
     <footer></footer>
   </div>
 </template>
